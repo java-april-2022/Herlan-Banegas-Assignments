@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/herlan/Desktop/Java-April-2022/Herlan-Banegas-Assignments/Week3/Omikuji Form/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1912025302.index
+/OmikujiForm/src/main/java

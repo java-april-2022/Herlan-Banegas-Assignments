@@ -1,0 +1,5 @@
+package com.herlan.omiku.controllers;
+
+public class HomeController {
+
+}
